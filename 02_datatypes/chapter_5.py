@@ -1,4 +1,4 @@
-# real numbers
+# Real numbers
 import sys
 from fractions import Fraction
 from decimal import Decimal
